@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LunchRec</string>
+    <string name="tab_text_1">점심 메뉴 추천</string>
+    <string name="tab_text_2">점심 History</string>
+    <string name="tab_text_3">식당 입력</string>
+
+
+
+    <string name="menu_picker_start">런치 메뉴박스 PLAY</string>
+
+
+
+</resources>
